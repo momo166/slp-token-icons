@@ -1,0 +1,4 @@
+git clone https://github.com/momo166/slp-token-icons
+cd slp-token-icons
+cp https://tokens.bch.sx/original/a93782865224ee24ca8cbde03ee9ada73dc3b59f1dc6d7c776c6ee4671a01d15.png
+
